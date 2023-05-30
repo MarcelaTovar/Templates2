@@ -1,0 +1,6 @@
+﻿  planti.cpp
+  Tipos.cpp
+  Generando código...
+planti.obj : error LNK2005: ya se definió "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class MiClase const &)" (??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@AEBVMiClase@@@Z) en MiClase.obj
+Tipos.obj : error LNK2005: ya se definió "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class MiClase const &)" (??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@AEBVMiClase@@@Z) en MiClase.obj
+C:\Users\ONAN\Desktop\planti\x64\Debug\planti.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente
